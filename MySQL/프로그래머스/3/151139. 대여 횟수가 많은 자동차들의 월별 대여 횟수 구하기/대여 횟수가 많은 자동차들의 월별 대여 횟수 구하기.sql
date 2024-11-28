@@ -1,4 +1,3 @@
--- 코드를 입력하세요
 # select month(rh.start_date) as MONTH, subq.CAR_ID, count(*) as RECORDS
 # from car_rental_company_rental_history rh
 # join

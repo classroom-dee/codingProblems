@@ -35,6 +35,8 @@
 #     return res
 
 # UGghghghg
+from math import isqrt
+
 def solution(begin, end):
     MAX_BLOCK = 10_000_000
     result = []
@@ -46,14 +48,16 @@ def solution(begin, end):
         
         block = 1  # default
         # check divisors up to sqrt(i)
-        for d in range(2, int(i**0.5) + 1):
+        r = isqrt(i)
+        for d in range(2, r + 1):
             if i % d == 0:
                 pair = i // d
                 if pair <= MAX_BLOCK:
                     block = max(block, pair)
+                    block = pair
                     break  # pair is always larger, so best
                 elif d <= MAX_BLOCK:
-                    block = max(block, d)
+                    block = d
         result.append(block)
     
     return result

@@ -61,12 +61,22 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0035-search-insert-position](https://github.com/classroom-dee/codingProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/classroom-dee/codingProblems/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/classroom-dee/codingProblems/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/classroom-dee/codingProblems/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->

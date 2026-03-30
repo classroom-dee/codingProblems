@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0035-search-insert-position](https://github.com/classroom-dee/codingProblems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/classroom-dee/codingProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/classroom-dee/codingProblems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/classroom-dee/codingProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/classroom-dee/codingProblems/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/classroom-dee/codingProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/classroom-dee/codingProblems/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/classroom-dee/codingProblems/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

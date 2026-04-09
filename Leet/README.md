@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0066-plus-one](https://github.com/classroom-dee/codingProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/classroom-dee/codingProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/classroom-dee/codingProblems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/classroom-dee/codingProblems/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0175-combine-two-tables](https://github.com/classroom-dee/codingProblems/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/classroom-dee/codingProblems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/classroom-dee/codingProblems/tree/master/0182-duplicate-emails) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/classroom-dee/codingProblems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/classroom-dee/codingProblems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

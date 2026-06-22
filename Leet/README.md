@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/classroom-dee/codingProblems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/classroom-dee/codingProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/classroom-dee/codingProblems/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/classroom-dee/codingProblems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/classroom-dee/codingProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/classroom-dee/codingProblems/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -105,12 +107,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0101-symmetric-tree](https://github.com/classroom-dee/codingProblems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/classroom-dee/codingProblems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/classroom-dee/codingProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/classroom-dee/codingProblems/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/classroom-dee/codingProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/classroom-dee/codingProblems/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/classroom-dee/codingProblems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/classroom-dee/codingProblems/tree/master/0112-path-sum) |
 ## Sorting
 |  |
 | ------- |

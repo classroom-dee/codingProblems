@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0067-add-binary](https://github.com/classroom-dee/codingProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/classroom-dee/codingProblems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/classroom-dee/codingProblems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/classroom-dee/codingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/classroom-dee/codingProblems/tree/master/0190-reverse-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,7 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |

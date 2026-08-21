@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/classroom-dee/codingProblems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/classroom-dee/codingProblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/classroom-dee/codingProblems/tree/master/0171-excel-sheet-column-number) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/classroom-dee/codingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/classroom-dee/codingProblems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0035-search-insert-position](https://github.com/classroom-dee/codingProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/classroom-dee/codingProblems/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0190-reverse-bits](https://github.com/classroom-dee/codingProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/classroom-dee/codingProblems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/classroom-dee/codingProblems/tree/master/0222-count-complete-tree-nodes) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
@@ -194,8 +198,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->

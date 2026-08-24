@@ -28,20 +28,35 @@ class Solution:
         # return play(stones)
         
         # DP solution
-        pref_run = 0
-        prefix = [
-            (pref_run := pref_run + s)
-            for s in stones
-        ]
-        # this is O(n**2)
-        # prefix = [sum(stones[:i+1]) for i in range(len(stones))]
-        dp = [0] * len(stones)
-        dp[-1] = prefix[-1]
+        # pref_run = 0
+        # prefix = [
+        #     (pref_run := pref_run + s)
+        #     for s in stones
+        # ]
+        # # this is O(n**2)
+        # # prefix = [sum(stones[:i+1]) for i in range(len(stones))]
+
+        # dp = [0] * len(stones)
+        # dp[-1] = prefix[-1]
+
+        # for i in range(len(stones) - 2, 0, -1):
+        #     dp[i] = max(
+        #         dp[i + 1],
+        #         prefix[i] - dp[i + 1]
+        #     )
+        
+        # return dp[1]
+
+        # O(1) optimization
+        pref = sum(stones)
+        best = pref
 
         for i in range(len(stones) - 2, 0, -1):
-            dp[i] = max(
-                dp[i + 1],
-                prefix[i] - dp[i + 1]
+            pref -= stones[i + 1]
+
+            best = max(
+                best,
+                pref - best
             )
-        
-        return dp[1]
+
+        return best

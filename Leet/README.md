@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0070-climbing-stairs](https://github.com/classroom-dee/codingProblems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/classroom-dee/codingProblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/classroom-dee/codingProblems/tree/master/0171-excel-sheet-column-number) |
+| [2002-stone-game-viii](https://github.com/classroom-dee/codingProblems/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/classroom-dee/codingProblems/tree/master/2039-sum-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/classroom-dee/codingProblems/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/classroom-dee/codingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/classroom-dee/codingProblems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
+| [2002-stone-game-viii](https://github.com/classroom-dee/codingProblems/tree/master/2002-stone-game-viii) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/classroom-dee/codingProblems/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Trie
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0118-pascals-triangle](https://github.com/classroom-dee/codingProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/classroom-dee/codingProblems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/classroom-dee/codingProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2002-stone-game-viii](https://github.com/classroom-dee/codingProblems/tree/master/2002-stone-game-viii) |
 ## Memoization
 |  |
 | ------- |
@@ -201,7 +204,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/classroom-dee/codingProblems/tree/master/0169-majority-element) |
@@ -220,5 +223,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Game Theory
 |  |
 | ------- |
+| [2002-stone-game-viii](https://github.com/classroom-dee/codingProblems/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/classroom-dee/codingProblems/tree/master/2039-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [2002-stone-game-viii](https://github.com/classroom-dee/codingProblems/tree/master/2002-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2002-stone-game-viii](https://github.com/classroom-dee/codingProblems/tree/master/2002-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2002-stone-game-viii](https://github.com/classroom-dee/codingProblems/tree/master/2002-stone-game-viii) |
 <!---LeetCode Topics End-->

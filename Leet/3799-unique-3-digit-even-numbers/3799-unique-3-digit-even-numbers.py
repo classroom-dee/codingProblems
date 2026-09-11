@@ -26,12 +26,33 @@ class Solution:
         # return len(nums)
 
         # For Python, this could be better
-        from itertools import permutations
+        # from itertools import permutations
 
-        valid = set()
+        # valid = set()
 
-        for a, b, c in permutations(digits, 3):
-            if a != 0 and c % 2 == 0:
-                valid.add(a * 100 + b * 10 + c)
+        # for a, b, c in permutations(digits, 3):
+        #     if a != 0 and c % 2 == 0:
+        #         valid.add(a * 100 + b * 10 + c)
 
-        return len(valid)
+        # return len(valid)
+
+        # But that was O(n3) so
+        freq = [0] * 10
+
+        for d in digits:
+            freq[d] += 1
+
+        count = 0
+
+        for a in range(1, 10):      # hundreds: can't be 0
+            for b in range(10):     # tens
+                for c in range(0, 10, 2):  # ones: must be even
+                    needed = [0] * 10
+                    needed[a] += 1
+                    needed[b] += 1
+                    needed[c] += 1
+
+                    if all(needed[d] <= freq[d] for d in range(10)):
+                        count += 1
+
+        return count

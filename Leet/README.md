@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0262-trips-and-users](https://github.com/classroom-dee/codingProblems/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/classroom-dee/codingProblems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/classroom-dee/codingProblems/tree/master/0596-classes-with-at-least-5-students) |
 | [1182-game-play-analysis-iv](https://github.com/classroom-dee/codingProblems/tree/master/1182-game-play-analysis-iv) |
 ## Array

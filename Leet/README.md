@@ -30,4 +30,16 @@
 |  |
 | ------- |
 | [3831-find-x-value-of-array-i](https://github.com/classroom-dee/codingProblems/tree/master/3831-find-x-value-of-array-i) |
+## String
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

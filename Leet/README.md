@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/classroom-dee/codingProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3831-find-x-value-of-array-i](https://github.com/classroom-dee/codingProblems/tree/master/3831-find-x-value-of-array-i) |
 ## String
 |  |
@@ -53,4 +54,8 @@
 | [0020-valid-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/classroom-dee/codingProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

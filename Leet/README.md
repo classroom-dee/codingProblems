@@ -41,6 +41,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/classroom-dee/codingProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/classroom-dee/codingProblems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/classroom-dee/codingProblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/classroom-dee/codingProblems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3831-find-x-value-of-array-i](https://github.com/classroom-dee/codingProblems/tree/master/3831-find-x-value-of-array-i) |
 ## String
 |  |
@@ -84,4 +85,20 @@
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/classroom-dee/codingProblems/tree/master/2210-find-target-indices-after-sorting-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/classroom-dee/codingProblems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/classroom-dee/codingProblems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/classroom-dee/codingProblems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/classroom-dee/codingProblems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->

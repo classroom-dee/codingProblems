@@ -74,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/classroom-dee/codingProblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -113,4 +114,16 @@
 |  |
 | ------- |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/classroom-dee/codingProblems/tree/master/4205-minimum-xor-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

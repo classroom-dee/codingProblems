@@ -7,6 +7,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/classroom-dee/codingProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/classroom-dee/codingProblems/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3831-find-x-value-of-array-i](https://github.com/classroom-dee/codingProblems/tree/master/3831-find-x-value-of-array-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/classroom-dee/codingProblems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/classroom-dee/codingProblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/classroom-dee/codingProblems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3831-find-x-value-of-array-i](https://github.com/classroom-dee/codingProblems/tree/master/3831-find-x-value-of-array-i) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/classroom-dee/codingProblems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/classroom-dee/codingProblems/tree/master/4205-minimum-xor-path-in-a-grid) |
 ## String
 |  |

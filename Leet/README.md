@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/classroom-dee/codingProblems/tree/master/0460-lfu-cache) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/classroom-dee/codingProblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Indexed Tree
 |  |
@@ -121,14 +122,17 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/classroom-dee/codingProblems/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/classroom-dee/codingProblems/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/classroom-dee/codingProblems/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |

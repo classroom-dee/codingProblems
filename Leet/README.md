@@ -37,6 +37,7 @@
 | [0610-triangle-judgement](https://github.com/classroom-dee/codingProblems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/classroom-dee/codingProblems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/classroom-dee/codingProblems/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/classroom-dee/codingProblems/tree/master/0626-exchange-seats) |
 | [1182-game-play-analysis-iv](https://github.com/classroom-dee/codingProblems/tree/master/1182-game-play-analysis-iv) |
 ## Array
 |  |

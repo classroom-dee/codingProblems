@@ -132,6 +132,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/classroom-dee/codingProblems/tree/master/0460-lfu-cache) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -145,4 +146,24 @@
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/classroom-dee/codingProblems/tree/master/3644-minimum-positive-sum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

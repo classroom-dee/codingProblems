@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/classroom-dee/codingProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/classroom-dee/codingProblems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/classroom-dee/codingProblems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/classroom-dee/codingProblems/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/1078-remove-outermost-parentheses) |
+| [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/classroom-dee/codingProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/classroom-dee/codingProblems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Stack
@@ -134,6 +136,7 @@
 | [0146-lru-cache](https://github.com/classroom-dee/codingProblems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/classroom-dee/codingProblems/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -167,4 +170,13 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/classroom-dee/codingProblems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
+## Trie
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
+## AhoâCorasick Algorithm
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/classroom-dee/codingProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/classroom-dee/codingProblems/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/classroom-dee/codingProblems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3831-find-x-value-of-array-i](https://github.com/classroom-dee/codingProblems/tree/master/3831-find-x-value-of-array-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/classroom-dee/codingProblems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/classroom-dee/codingProblems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/classroom-dee/codingProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3644-minimum-positive-sum-subarray](https://github.com/classroom-dee/codingProblems/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/classroom-dee/codingProblems/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/classroom-dee/codingProblems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3831-find-x-value-of-array-i](https://github.com/classroom-dee/codingProblems/tree/master/3831-find-x-value-of-array-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/classroom-dee/codingProblems/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/classroom-dee/codingProblems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/classroom-dee/codingProblems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/classroom-dee/codingProblems/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/classroom-dee/codingProblems/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
 | ------- |
@@ -175,8 +179,12 @@
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
-## AhoâCorasick Algorithm
+## AhoÃ¢ÂÂCorasick Algorithm
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/classroom-dee/codingProblems/tree/master/1097-stream-of-characters) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/classroom-dee/codingProblems/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
